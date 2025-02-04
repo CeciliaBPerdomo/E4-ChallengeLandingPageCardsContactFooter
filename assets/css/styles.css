@@ -1,0 +1,11 @@
+/* Importacion de los estilos  */
+@import url('./base.css');
+
+/* Importacion de los estilos del navbar */
+@import url('./navbar.css');
+
+/* Importcion de los estilos de la Portada */
+@import url('./portada.css');
+
+/* Importcion de los estilos de Acerca de Nosotros */
+@import url('./aboutus.css');

@@ -1,0 +1,79 @@
+#portada {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding-left: 2rem;
+    padding-top: 6rem;
+}
+
+/* Texto */
+#content-portada {
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+}
+
+#content-portada> h1 {
+    font-size: 2rem;
+    font-weight: 300;
+}
+
+#content-portada> p {
+    font-size: 1.2rem;
+    font-weight: 300;
+    text-align: center;
+    line-height: 1.75rem;
+}
+
+#content-portada> a {
+    text-decoration: none;
+    
+    width: 250px;
+    height: 60px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border: black 1px solid;
+    border-radius: 1.5rem;
+    background: none;
+    color: black;
+
+    font-size: 1.2rem;
+    font-weight: 400;
+    cursor: pointer;
+    margin-top: 2.5rem;
+}
+
+#content-portada> a:hover {
+    color: green;
+    font-weight: 600;
+}
+
+/* Imagen de planta */
+#card-portada {
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#card-portada picture {
+    width: 60%;
+    border-radius: 1rem;
+    overflow: hidden;
+}
+
+#card-portada picture img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
