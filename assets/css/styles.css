@@ -12,3 +12,6 @@
 
 /* Importacion de los estilos de los productos */
 @import url('./cards.css');
+
+/* Importacion de los estilos del formulario de contacto */
+@import url('./contacto.css');

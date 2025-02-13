@@ -1,0 +1,73 @@
+#contacto {
+    width: 80%;
+    margin: 0 auto;
+    border: 0.01rem solid green;
+    border-radius: 1.5rem;
+    overflow: hidden;
+    background-size: cover;
+
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+
+    margin-bottom: 1rem;
+}
+
+#contacto>header {
+    display: flex;
+    padding-top: 1rem;
+}
+
+#contacto>header>h3 {
+    text-align: center;
+    align-self: center;
+    font-size: 1.5rem;
+}
+
+#formulario {
+    width: 60%;
+    text-align: center;
+    padding: 0.5rem;
+}
+
+#formulario>input {
+    width: 100%;
+    background-color: transparent;
+    padding: 0.5rem;
+    margin-top: 1rem;
+    border-radius: 0.5rem;
+    border: 1px solid #ccc;
+}
+
+
+#formulario textarea {
+    width: 100%;
+    background-color: transparent;
+    padding: 0.5rem;
+    margin-top: 1rem;
+    border-radius: 0.5rem;
+    border: 1px solid #ccc;
+}
+
+#formulario>button {
+    width: 15rem;
+    text-align: center;
+    padding: 0.5rem 1.25rem;
+    border-radius: 1.5rem;
+    border: 0.1rem solid green;
+    background-color: transparent;
+    color: green;
+}
+
+#formulario>button svg {
+    width: 8%;
+}
+
+#formulario>button:hover {
+    color: black;
+    transform: scale(1.05);
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+}
