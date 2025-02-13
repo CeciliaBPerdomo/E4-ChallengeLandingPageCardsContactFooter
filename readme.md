@@ -15,35 +15,42 @@
     Mis plantis
 </p>
 
-# 🚀 Entrega: Secciones Hero y About
+# E4: Challenge Landing Page - Cards + Contact + Footer  
 
-## 📌 Descripción
-En esta entrega deberán desarrollar las dos primeras secciones de su página: **Hero** y **About**.
+¡Hola a todos! 🎓  
+En este desafío, vamos a darle un cierre a la landing page que hemos estado construyendo con cada entrega. En esta ocasión, añadiremos:  
 
-## 📚 Recursos recomendados
-Pueden utilizar los siguientes recursos para mejorar el diseño de su landing:
-- [Undraw](https://undraw.co/) - Ilustraciones gratuitas para la imagen de portada.
-- [UIGradients](https://uigradients.com/) - Gradientes para backgrounds.
+- **Sección de Cards**  
+- **Sección de Contacto**  
+- **Footer**  
 
-## 🔄 Repositorio
-Les recomendamos actualizar el repositorio que **supuestamente** armaron en el desafío anterior, para que todas las entregas se unan y la landing tome forma progresivamente.
-
-## ❓ Dudas y soporte
-Si tienen dudas, pueden consultar en el servidor de **Discord**, respetando las reglas para consultas y participación en el canal privado.
+> **⚠️ Importante:**  
+> Recuerden agregar **animaciones o interacciones** a su página.  
+> *¡Que sean sutiles, por favor! 🙏*  
 
 ---
 
-## 📤 Forma de entrega
-Los ejercicios deberán ser entregados a través de esta plataforma con los siguientes requisitos:
-- **Repositorio en GitHub** con el código fuente.
-- **Deploy en Vercel**.
-- **Entrega de ambos links** (GitHub y Vercel).
+## 🚀 Entrega  
+### 🔗 **¿Cómo entregar?**  
+1. Subir el proyecto a un **repositorio de GitHub**.  
+2. Hacer **deploy en Vercel**.  
+3. Entregar ambos **links (GitHub + Vercel)**.  
 
-❌ **No se aceptarán** archivos sueltos, comprimidos ni subidos a Google Drive.
+📌 **⚠️ No se aceptarán:**  
+- Archivos sueltos  
+- Archivos comprimidos  
+- Archivos subidos a Drive  
 
 ---
 
-## ⏳ Plazo de entrega
-- Dispondrán de exactamente **2 SEMANAS** desde la habilitación para realizar la entrega.
-- Una vez entregado, el equipo de mentoría verificará el trabajo.
-- Si la entrega es válida, se habilitará un **video de resolución** en el encabezado de la entrega para contrastar su trabajo, mejorar y resolver dudas.
+## ⏳ Plazos  
+📅 **Tienen exactamente 2 SEMANAS** para realizar la entrega desde su habilitación.  
+
+🔍 **Después de la entrega:**  
+- El equipo de mentoría verificará que se haya trabajado en lo solicitado.  
+- Se habilitará un **video de resolución** en el encabezado de la entrega.  
+- Podrán **comparar su trabajo** con la resolución oficial y hacer mejoras.  
+
+Si tienen dudas, pueden consultarlas directamente en el **servidor de Discord**.  
+
+¡Mucho éxito! 💪🚀  

@@ -4,8 +4,11 @@
 /* Importacion de los estilos del navbar */
 @import url('./navbar.css');
 
-/* Importcion de los estilos de la Portada */
+/* Importacion de los estilos de la Portada */
 @import url('./portada.css');
 
-/* Importcion de los estilos de Acerca de Nosotros */
+/* Importacion de los estilos de Acerca de Nosotros */
 @import url('./aboutus.css');
+
+/* Importacion de los estilos de los productos */
+@import url('./cards.css');
