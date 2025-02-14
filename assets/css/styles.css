@@ -15,3 +15,6 @@
 
 /* Importacion de los estilos del formulario de contacto */
 @import url('./contacto.css');
+
+/* Importacion del footer */
+@import url('./footer.css');
